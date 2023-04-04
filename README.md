@@ -1,2 +1,3 @@
-# sjc-json
-Contains JSON files for the Website
+# sjc-storage
+
+This repo contains all of the assets included in the website
