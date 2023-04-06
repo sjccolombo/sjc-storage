@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "grade": "Grade 6",
+        "link": "",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "grade": "Grade 7",
+        "link": "",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "grade": "Grade 8",
+        "link": "",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "grade": "Grade 9",
+        "link": "",
+        "image": ""
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "class": "12c1",
+        "teacher": ""
+    },
+    {
+        "id": 2,
+        "class": "12c2",
+        "teacher": ""
+    },
+    {
+        "id": 3,
+        "class": "12c3",
+        "teacher": ""
+    },
+    {
+        "id": 4,
+        "class": "12c4",
+        "teacher": ""
+    },
+    {
+        "id": 5,
+        "class": "12c5",
+        "teacher": ""
+    },
+    {
+        "id": 6,
+        "class": "13c1",
+        "teacher": ""
+    },
+    {
+        "id": 7,
+        "class": "13c2",
+        "teacher": ""
+    },
+    {
+        "id": 8,
+        "class": "13c3",
+        "teacher": ""
+    },
+    {
+        "id": 9,
+        "class": "13c4",
+        "teacher": ""
+    },
+    {
+        "id": 10,
+        "class": "13c5",
+        "teacher": ""
+    }
+]

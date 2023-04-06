@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "class": "12s1",
+        "teacher": ""
+    },
+    {
+        "id": 2,
+        "class": "12s2",
+        "teacher": ""
+    },
+    {
+        "id": 3,
+        "class": "12s3",
+        "teacher": ""
+    },
+    {
+        "id": 4,
+        "class": "12s4",
+        "teacher": ""
+    },
+    {
+        "id": 5,
+        "class": "13s1",
+        "teacher": ""
+    },
+    {
+        "id": 6,
+        "class": "13s2",
+        "teacher": ""
+    },
+    {
+        "id": 7,
+        "class": "13s3",
+        "teacher": ""
+    },
+    {
+        "id": 8,
+        "class": "13s4",
+        "teacher": ""
+    }
+]

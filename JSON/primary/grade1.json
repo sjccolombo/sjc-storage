@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "class": "1s1",
+        "teacher": ""
+    },
+    {
+        "id": 2,
+        "class": "1s2",
+        "teacher": ""
+    },
+    {
+        "id": 3,
+        "class": "1s3",
+        "teacher": ""
+    },
+    {
+        "id": 4,
+        "class": "1s4",
+        "teacher": ""
+    },
+    {
+        "id": 5,
+        "class": "1s5",
+        "teacher": ""
+    },
+    {
+        "id": 6,
+        "class": "1s6",
+        "teacher": ""
+    },
+    {
+        "id": 7,
+        "class": "1T",
+        "teacher": ""
+    }
+]
