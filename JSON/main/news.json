@@ -2,11 +2,15 @@
     {
         "id": 1,
         "title": "News 1",
+        "date": "12th April, 2023",
+        "time": "03:30 AM",
         "paragraph": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum libero nobis ipsa possimus quibusdam quod quas? Cupiditate delectus, animi, porro iste consequuntur officia alias consectetur id accusantium sapiente omnis iusto!"
     },
     {
         "id": 2,
         "title": "News 2",
+        "date": "12th April, 2023",
+        "time": "03:50 AM",
         "paragraph": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum libero nobis ipsa possimus quibusdam quod quas? Cupiditate delectus, animi, porro iste consequuntur officia alias consectetur id accusantium sapiente omnis iusto!"
     }
 ]
