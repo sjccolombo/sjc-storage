@@ -4,6 +4,7 @@
         "title": "News 1",
         "date": "12th April, 2023",
         "time": "03:30 AM",
+        "image": "https://images.unsplash.com/photo-1588072432904-843af37f03ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
         "paragraph": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum libero nobis ipsa possimus quibusdam quod quas? Cupiditate delectus, animi, porro iste consequuntur officia alias consectetur id accusantium sapiente omnis iusto!"
     },
     {
@@ -11,6 +12,7 @@
         "title": "News 2",
         "date": "12th April, 2023",
         "time": "03:50 AM",
+        "image": "https://images.unsplash.com/photo-1588072432904-843af37f03ed?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
         "paragraph": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum libero nobis ipsa possimus quibusdam quod quas? Cupiditate delectus, animi, porro iste consequuntur officia alias consectetur id accusantium sapiente omnis iusto!"
     }
 ]
