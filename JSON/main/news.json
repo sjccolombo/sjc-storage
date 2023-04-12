@@ -5,6 +5,7 @@
         "date": "12th April, 2023",
         "time": "03:30 AM",
         "image": "",
+        "imageAlt" "Image Alt Text",
         "paragraph": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum libero nobis ipsa possimus quibusdam quod quas? Cupiditate delectus, animi, porro iste consequuntur officia alias consectetur id accusantium sapiente omnis iusto!"
     },
     {
@@ -13,6 +14,7 @@
         "date": "12th April, 2023",
         "time": "03:50 AM",
         "image": "",
+        "imageAlt" "Image Alt Text",
         "paragraph": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum libero nobis ipsa possimus quibusdam quod quas? Cupiditate delectus, animi, porro iste consequuntur officia alias consectetur id accusantium sapiente omnis iusto!"
     }
 ]
