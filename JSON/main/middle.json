@@ -2,25 +2,29 @@
     {
         "id": 1,
         "grade": "Grade 6",
-        "link": "",
-        "image": ""
+        "link": "/academics/middle/grade6.html",
+        "image": "",
+        "imageAlt": "Image of Grade 6"
     },
     {
         "id": 2,
         "grade": "Grade 7",
-        "link": "",
-        "image": ""
+        "link": "/academics/middle/grade7.html",
+        "image": "",
+        "imageAlt": "Image of Grade 7"
     },
     {
         "id": 3,
         "grade": "Grade 8",
-        "link": "",
-        "image": ""
+        "link": "/academics/middle/grade8.html",
+        "image": "",
+        "imageAlt": "Image of Grade 8"
     },
     {
         "id": 3,
         "grade": "Grade 9",
-        "link": "",
-        "image": ""
+        "link": "/academics/middle/grade9.html",
+        "image": "",
+        "imageAlt": "Image of Grade 9"
     }
 ]
