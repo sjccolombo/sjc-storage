@@ -1,14 +1,16 @@
 [
     {
         "id": 1,
-        "grade": "Grade 12",
-        "link": "",
-        "image": ""
+        "stream": "Advanced Level Science",
+        "link": "/academics/advanced/science.html",
+        "image": "",
+        "imageAlt": "Image of Advanced Level Science Stream"
     },
     {
         "id": 2,
-        "grade": "Grade 13",
-        "link": "",
-        "image": ""
+        "stream": "Advanced Level Commerce",
+        "link": "/academics/advanced/commerce.html",
+        "image": "",
+        "imageAlt": "Image of Advanced Level Commerce Stream"
     }
 ]
