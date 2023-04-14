@@ -2,13 +2,15 @@
     {
         "id": 1,
         "grade": "Grade 10",
-        "link": "",
-        "image": ""
+        "link": "/academics/ordinary/grade10.html",
+        "image": "",
+        "imageAlt": "Image of Grade 10"
     },
     {
         "id": 2,
         "grade": "Grade 11",
-        "link": "",
-        "image": ""
+        "link": "/academics/ordinary/grade11.html",
+        "image": "",
+        "imageAlt": "Image of Grade 11"
     }
 ]
