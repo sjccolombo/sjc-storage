@@ -3,84 +3,98 @@
         "id": 1,
         "name": "Rev. Fr. Charles Collin",
         "time": "1896 - 1910",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-charles-collin.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-charles-collin.webp",
+        "imageAlt": "Picture of Rev. Fr. Charles Collin"
     },
     {
         "id": 2,
         "name": "Rev. Fr. Charles Lytton",
         "time": "1910 - 1912",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-charles-lytton.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-charles-lytton.webp",
+        "imageAlt": "Picture of Rev. Fr. Charles Collin"
     },
     {
         "id": 3,
         "name": "Rev. Fr. Emile Nicholas",
         "time": "1912 - 1919",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-emil-nicholas.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-emil-nicholas.webp",
+        "imageAlt": "Picture of Rev. Fr. Emile Nicholas"
     },
     {
         "id": 4,
         "name": "Rev. Fr. Maurice Legoc",
         "time": "1919 - 1940",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-maurice-james-le-goc.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-maurice-james-le-goc.webp",
+        "imageAlt": "Picture of Rev. Fr. Maurice Legoc"
     },
     {
         "id": 5,
         "name": "Rev. Fr. Peter A. Pillai",
         "time": "1940 - 1961",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-peter-a-pillai.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-peter-a-pillai.webp",
+        "imageAlt": "Picture of Rev. Fr. Peter A. Pillai"
     },
     {
         "id": 6,
         "name": "Rev. Fr. W. L. A. Don Peter",
         "time": "1961 - 1971",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-don-peter.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-don-peter.webp",
+        "imageAlt": "Picture of Rev. Fr. W. L. A. Don Peter"
     },
     {
         "id": 7,
         "name": "Rev. Fr. Mervyn Weerakkody",
         "time": "1971 - 1974",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-mervyn-weerakkody.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-mervyn-weerakkody.webp",
+        "imageAlt": "Picture of Rev. Fr. Mervyn Weerakkody"
     },
     {
         "id": 8,
         "name": "Rev. Fr. Quintus Fernando",
         "time": "1974 - 1979",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-quintus-fernando.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-quintus-fernando.webp",
+        "imageAlt": "Picture of Rev. Fr. Quintus Fernando"
     },
     {
         "id": 9,
         "name": "Rev. Fr. Neville Emmanuel",
         "time": "1979 - 1983",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-neville-emmanuel.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-neville-emmanuel.webp",
+        "imageAlt": "Picture of Rev. Fr. Neville Emmanuel"
     },
     {
         "id": 10,
         "name": "Rev. Fr. Stanley Abeysekara",
         "time": "1983 - 1996",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-stanley-abeysekara.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-stanley-abeysekara.webp",
+        "imageAlt": "Picture of Rev. Fr. Stanley Abeysekara"
     },
     {
         "id": 11,
         "name": "Rev. Fr. Victor Silva",
         "time": "1996 - 2005",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-victor-silva.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-victor-silva.webp",
+        "imageAlt": "Picture of Rev. Fr. Victor Silva"
     },
     {
         "id": 12,
         "name": "Rev. Fr. Sylvester Ranasinghe",
         "time": "2005 - 2014",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-sylvester-ranasinghe.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-sylvester-ranasinghe.webp",
+        "imageAlt": "Picture of Rev. Fr. Sylvester Ranasinghe"
     },
     {
         "id": 13,
         "name": "Rev. Fr. Travis Gabriel",
         "time": "2014 - 2019",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-travis-gabriel.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-travis-gabriel.webp",
+        "imageAlt": "Picture of Rev. Fr. Travis Gabriel"
     },
     {
         "id": 14,
         "name": "Rev. Fr. Ranjith Andradi",
         "time": "2019 - Present",
-        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-ranjith-andradi.webp"
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Rectors/fr-ranjith-andradi.webp",
+        "imageAlt": "Picture of Rev. Fr. Ranjith Andradi"
     }
 ]
