@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "facility": "Auditorium",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/auditorium.webp",
+        "imageAlt": "Image of Auditorium"
+    },
+    {
+        "id": 2,
+        "facility": "Beire Ground",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/beire-ground.webp",
+        "imageAlt": "Image of Beire Ground"
+    },
+    {
+        "id": 3,
+        "facility": "Bonjean Hall",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/bonjean-hall.webp",
+        "imageAlt": "Image of Bonjean Hall"
+    },
+    {
+        "id": 4,
+        "facility": "Canteens",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/canteens.webp",
+        "imageAlt": "Image of a Canteen"
+    },
+    {
+        "id": 5,
+        "facility": "Clock Tower Building",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/clock-tower-building.webp",
+        "imageAlt": "Image of Clock Tower Building"
+    },
+    {
+        "id": 6,
+        "facility": "Computer Labs",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/computer-lab.webp",
+        "imageAlt": "Image of a Computer Lab"
+    },
+    {
+        "id": 7,
+        "facility": "Dental",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/dental.webp",
+        "imageAlt": "Image of Dental"
+    },
+    {
+        "id": 8,
+        "facility": "Main Ground",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/main-ground.webp",
+        "imageAlt": "Image of Main Ground"
+    },
+    {
+        "id": 9,
+        "facility": "Premadasa Pavilion",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/premadasa-pavilion.webp",
+        "imageAlt": "Image of Premadasa Pavilion"
+    },
+    {
+        "id": 10,
+        "facility": "Quadrangle",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/quadrangle.webp",
+        "imageAlt": "Image of Quadrangle"
+    },
+    {
+        "id": 11,
+        "facility": "Sick Room",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/sick-room.webp",
+        "imageAlt": "Image of Sick Room"
+    },
+    {
+        "id": 12,
+        "facility": "Skyrim Arena",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/skyrim-arena.webp",
+        "imageAlt": "Image of Skyrim Arena"
+    },
+    {
+        "id": 13,
+        "facility": "Smartboard Equipped Classrooms",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/smartboard.webp",
+        "imageAlt": "Image of a Smartboard Equipped Classroom"
+    },
+    {
+        "id": 14,
+        "facility": "Sports Complex",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/sports-complex.webp",
+        "imageAlt": "Image of Sports Complex"
+    },
+    {
+        "id": 15,
+        "facility": "Swimming Pool",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/Facilities/swimming-pool.webp",
+        "imageAlt": "Image of Swimming Pool"
+    }
+]
