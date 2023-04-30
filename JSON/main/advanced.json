@@ -3,14 +3,14 @@
         "id": 1,
         "stream": "Advanced Level Science",
         "link": "/academics/advanced/science.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Advanced Level Science Stream"
     },
     {
         "id": 2,
         "stream": "Advanced Level Commerce",
         "link": "/academics/advanced/commerce.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Advanced Level Commerce Stream"
     }
 ]
