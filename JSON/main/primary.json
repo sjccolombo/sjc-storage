@@ -3,35 +3,35 @@
         "id": 1,
         "grade": "Grade 1",
         "link": "/academics/primary/grade1.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Grade 1"
     },
     {
         "id": 2,
         "grade": "Grade 2",
         "link": "/academics/primary/grade2.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Grade 2"
     },
     {
         "id": 3,
         "grade": "Grade 3",
         "link": "/academics/primary/grade3.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Grade 3"
     },
     {
         "id": 4,
         "grade": "Grade 4",
         "link": "/academics/primary/grade4.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Grade 4"
     },
     {
         "id": 5,
         "grade": "Grade 5",
         "link": "/academics/primary/grade5.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Grade 5"
     }
 ]
