@@ -3,14 +3,14 @@
         "id": 1,
         "grade": "Grade 10",
         "link": "/academics/ordinary/grade10.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Grade 10"
     },
     {
         "id": 2,
         "grade": "Grade 11",
         "link": "/academics/ordinary/grade11.html",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image of Grade 11"
     }
 ]
