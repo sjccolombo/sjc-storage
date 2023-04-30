@@ -4,7 +4,7 @@
         "title": "News 1",
         "date": "12th April, 2023",
         "time": "03:30 AM",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image Alt Text",
         "paragraph": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum libero nobis ipsa possimus quibusdam quod quas? Cupiditate delectus, animi, porro iste consequuntur officia alias consectetur id accusantium sapiente omnis iusto!"
     },
@@ -13,7 +13,7 @@
         "title": "News 2",
         "date": "12th April, 2023",
         "time": "03:50 AM",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/sjccolombo/sjc-storage/main/Images/placeholder.webp",
         "imageAlt": "Image Alt Text",
         "paragraph": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum libero nobis ipsa possimus quibusdam quod quas? Cupiditate delectus, animi, porro iste consequuntur officia alias consectetur id accusantium sapiente omnis iusto!"
     }
